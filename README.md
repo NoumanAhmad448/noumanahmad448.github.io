@@ -1,4 +1,4 @@
-run
+To install dependencies run
 ```
 bundle install
 ```

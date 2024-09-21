@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+is_homepage: true
 ---
 
 
@@ -12,7 +13,8 @@ layout: home
 {% if site.open_projects %}
 ## Free Projects
 <ul>
-    <li><a href="{{ site.github_path }}django-blog-posts">django-blog-posts <strong> Property Management System </strong> </a></li>
+    <li><a target="_blank" href="{{ site.github_path }}django-blog-posts">django-blog-posts <strong> Property Management System </strong> </a></li>
+    <li><a target="_blank" href="{{ site.github_path }}node-blog-posts">node-blog-posts<strong> Property Management System </strong> </a></li>
 </ul>
 {% endif %}
 

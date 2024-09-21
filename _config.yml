@@ -6,5 +6,5 @@ author:
 description: "Find me for your online website need"
 
 # Build settings
-#remote_theme: jekyll/minima
-remote_theme: rosario/kasper
+remote_theme: jekyll/minima
+#remote_theme: rosario/kasper

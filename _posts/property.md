@@ -12,10 +12,10 @@ permalink: /posts/property
 ## Property | Land Managment System
 
 ### Register land
-![approve lands](/assets/imgs/harbour/register%20land.png)
+![approve lands](/assets/imgs/harbour/register%20land.jpg)
 
 ### Approve Lands
-![approve lands](/assets/imgs/harbour/lands%20approve.png)
+![approve lands](/assets/imgs/harbour/lands%20approve.jpg)
 
 ### Make website faster
 ![approve lands](/assets/imgs/harbour/make%20website%20splendid.png)
@@ -24,28 +24,28 @@ permalink: /posts/property
 ![approve lands](/assets/imgs/harbour/project%20health%20monitoring.png)
 
 ### Admin panel
-![approve lands](/assets/imgs/harbour/seperate%20admin%20panel.png)
+![approve lands](/assets/imgs/harbour/seperate%20admin%20panel.jpg)
 
 ### Sub admins
-![approve lands](/assets/imgs/harbour/sub%20admins.png)
+![approve lands](/assets/imgs/harbour/sub%20admins.jpg)
 
 ### Super admin summary
-![approve lands](/assets/imgs/harbour/summary.png)
+![approve lands](/assets/imgs/harbour/summary.jpg)
 
 ### User lands
-![approve lands](/assets/imgs/harbour/user%20lands.png)
+![approve lands](/assets/imgs/harbour/user%20lands.jpg)
 
 ### User login
-![approve lands](/assets/imgs/harbour/user%20login.png)
+![approve lands](/assets/imgs/harbour/user%20login.jpg)
 
 ### User profile
-![approve lands](/assets/imgs/harbour/user%20profile.png)
+![approve lands](/assets/imgs/harbour/user%20profile.jpg)
 
 ### User setting
 ![approve lands](/assets/imgs/harbour/user%20settings.png)
 
 ### Users
-![approve lands](/assets/imgs/harbour/users.png)
+![approve lands](/assets/imgs/harbour/users.jpg)
 
 
 ## Technical Details
@@ -65,3 +65,6 @@ permalink: /posts/property
 6. Google Captcha
 7. Laravel Health
 <!----------------------------------------------------------------------------->
+<br/><br/>
+### Interested to Buy? <br/><br/>
+{% include email.md %}

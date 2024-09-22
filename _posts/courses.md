@@ -112,3 +112,7 @@ permalink: /posts/courses
 <br/><br/>
 ### Interested to Buy? <br/><br/>
 {% include email.md %}
+
+
+### Routing
+{% include routing.md %}

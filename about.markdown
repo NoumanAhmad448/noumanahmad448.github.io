@@ -12,3 +12,5 @@ permalink: /about/
 
 {% include email.md %}
 
+### Routing
+{% include routing.md %}

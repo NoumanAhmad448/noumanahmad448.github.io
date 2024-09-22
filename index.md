@@ -16,7 +16,7 @@ is_homepage: true
 {% for pro in site.data.free_projects %}
   <li><a target="_blank" href="{{ site.github_path }}{{pro.repo}}">{{pro.repo}} <strong> {{pro.desc}} </strong> {{pro.emoji}}
     <strong>{{pro.technologies}}</strong>
-        <img src = "{{pro.img}}" width ="{{pro.img_w}}" />
+        <img class="change_w_100px" src = "{{pro.img}}" width ="{{pro.img_w}}" />
     </a>
   </li>
 {% endfor %}
@@ -28,7 +28,7 @@ is_homepage: true
 {% for pro in site.data.paid_projects %}
   <li><a target="_blank" href="{{ pro.url }}">{{pro.desc}}  {{pro.emoji}}
     <strong>{{pro.technologies}}</strong>
-        <img src = "{{pro.img}}" width ="{{pro.img_w}}" />
+        <img class="change_w_100px" src = "{{pro.img}}" width ="{{pro.img_w}}" />
     </a>
   </li>
 {% endfor %}
@@ -44,7 +44,7 @@ is_homepage: true
         <strong>
             {{pro.technologies}}
         </strong>
-        <img src = "{{pro.img}}" width ="{{pro.img_w}}" />
+        <img class="change_w_100px" src = "{{pro.img}}" width ="{{pro.img_w}}" />
     </a>
   </li>
 {% endfor %}

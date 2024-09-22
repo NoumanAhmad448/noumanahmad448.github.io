@@ -20,8 +20,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <a href="{{ "/" | absolute_url }}"> Home </a> --- 
-        <a href="/about"> About </a>
+        {% include routing.md %}
 
         {% if site.logo %}
           <img class="br-12" src="{{site.logo | relative_url}}" alt="Logo" />

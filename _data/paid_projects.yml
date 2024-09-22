@@ -1,11 +1,11 @@
-- url: /posts/property
+- url: posts/property
   desc: Property Management System
   emoji: 🙌🙌🙌
   technologies: Laravel 9 PHP
   img: https://laravel.com/img/logomark.min.svg
   img_w: 30
 
-- url: /posts/courses
+- url: posts/courses
   desc: LMS for students, teachers and admin
   emoji: 🙌🙌🙌
   technologies: Laravel PHP

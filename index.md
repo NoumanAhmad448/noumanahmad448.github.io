@@ -26,7 +26,7 @@ is_homepage: true
 ## Paid Projects
 <ul>
 {% for pro in site.data.paid_projects %}
-  <li><a target="_blank" href="{{pro.url}}">{{pro.repo}} <strong> {{pro.desc}} </strong> {{pro.emoji}}
+  <li><a target="_blank" href="{{ pro.url }}">{{pro.repo}} <strong> {{pro.desc}} </strong> {{pro.emoji}}
     <strong>{{pro.technologies}}</strong>
         <img src = "{{pro.img}}" width ="{{pro.img_w}}" />
     </a>
@@ -38,8 +38,14 @@ is_homepage: true
 <ul>
 {% for pro in site.data.live_projects %}
   <li>
-    <a target="_blank" href="{{pro.url}}">{{pro.repo}} <strong> {{pro.desc}} </strong> {{pro.emoji}}
-        <strong>{{pro.technologies}}</strong>
+    <a target="_blank" href="{{pro.url}}">{{pro.repo}}
+        <strong>
+             {{pro.desc}} 
+        </strong>
+         {{pro.emoji}}
+        <strong>
+            {{pro.technologies}}
+        </strong>
         <img src = "{{pro.img}}" width ="{{pro.img_w}}" />
     </a>
   </li>

@@ -4,3 +4,4 @@
 <img src = "https://getcomposer.org/img/logo-composer-transparent5.png" width ="200" />
 <img src = "https://developers.google.com/static/recaptcha/images/newCaptchaAnchor.gif" width ="200" />
 <img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery.png" width ="200" />
+<img src = "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width ="200" />

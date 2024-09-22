@@ -10,62 +10,67 @@ permalink: /posts/courses
 
 # Porfolio
 ## LMS | Learning Managment System | Student Teacher Admin Management System
+### Interested to Buy? <br/><br/>
+{% include email.md %}
+
+## Live Tour ?
+<a href="https://lyskills.com/" class="red font2" target="_blank">Let's take a Tour</a>
 
 ## Admin
 ### Admin Panel
-![login](/assets/imgs/courses/admin/admin_panel.png)
+![login](/assets/imgs/courses/admin/admin_panel.jpg)
 
 ### Manage Blogger Users
-![Manage Blogger Users](/assets/imgs/courses/admin/blogger_usr.png)
+![Manage Blogger Users](/assets/imgs/courses/admin/blogger_usr.jpg)
 
 ### All Blogs
-![All Blogs](/assets/imgs/courses/admin/blogs.png)
+![All Blogs](/assets/imgs/courses/admin/blogs.jpg)
 
 ### Create Categories
-![Create Categories](/assets/imgs/courses/admin/categories.png)
+![Create Categories](/assets/imgs/courses/admin/categories.jpg)
 
 ### Admin Login
-![Login](/assets/imgs/courses/admin/login.png)
+![Login](/assets/imgs/courses/admin/login.jpg)
 
 ### Inform teacher
-![Inform teacher](/assets/imgs/courses/admin/ins_not.png)
+![Inform teacher](/assets/imgs/courses/admin/ins_not.jpg)
 
 ### Manage Courses
-![approve lands](/assets/imgs/courses/admin/published_courses.png)
+![approve lands](/assets/imgs/courses/admin/published_courses.jpg)
 
 ## Student
 ### All Courses
-![approve lands](/assets/imgs/courses/student/all_courses.png)
+![approve lands](/assets/imgs/courses/student/all_courses.jpg)
 
 ### Contact Instructor
-![approve lands](/assets/imgs/courses/student/contact.png)
+![approve lands](/assets/imgs/courses/student/contact.jpg)
 
 
 ### Course Details
-![approve lands](/assets/imgs/courses/student/course_detail.png)
+![approve lands](/assets/imgs/courses/student/course_detail.jpg)
 
 
 ### Course Videos
-![approve lands](/assets/imgs/courses/student/course_video.png)
+![approve lands](/assets/imgs/courses/student/course_video.jpg)
 
 ### Course
-![approve lands](/assets/imgs/courses/student/courses.png)
+![approve lands](/assets/imgs/courses/student/courses.jpg)
 
 
 ### Login
-![approve lands](/assets/imgs/courses/student/login.png)
+![approve lands](/assets/imgs/courses/student/login.jpg)
 
 ### Password Management
-![approve lands](/assets/imgs/courses/student/pass_mgmt.png)
+![approve lands](/assets/imgs/courses/student/pass_mgmt.jpg)
 
 ### Share Courses
-![approve lands](/assets/imgs/courses/student/share_course.png)
+![approve lands](/assets/imgs/courses/student/share_course.jpg)
 
 ### Global Posts
-![approve lands](/assets/imgs/courses/student/site_posts.png)
+![approve lands](/assets/imgs/courses/student/site_posts.jpg)
 
 ### Student Menu
-![approve lands](/assets/imgs/courses/student/student%20menu.png)
+![approve lands](/assets/imgs/courses/student/student%20menu.jpg)
 
 ## Teachers | Instructors | Tutor
 ### Basic Information

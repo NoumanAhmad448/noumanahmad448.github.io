@@ -1,0 +1,14 @@
+- repo: django-blog-posts
+  desc: Blog | 状态管理系统（post management system） Management System
+  emoji: 🙌🙌🙌
+  technologies: Django Python
+  img: https://static.djangoproject.com/img/logos/django-logo-positive.png
+  img_w: 80
+
+- repo: node-blog-posts
+  desc: Property Management System
+  emoji: 🙌🙌🙌
+  technologies: Express Javascript
+  img: https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png
+  img_w: 90
+

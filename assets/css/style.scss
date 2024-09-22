@@ -13,9 +13,16 @@
         width: 850px !important;
     }
 }
-p{
+p,a,h2,h3{
     text-align: justify !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
 }
+h2,h3{
+    padding-top: 3rem !important
+
+}
+
 ul li{
     margin-top: 10px !important;
 }

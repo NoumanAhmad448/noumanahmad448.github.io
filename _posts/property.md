@@ -24,7 +24,7 @@ permalink: /posts/property
 ![approve lands](/assets/imgs/harbour/project%20health%20monitoring.png)
 
 ### Admin panel
-![approve lands](/assets/imgs/harbour/seperate%20admin%20panel.jpg)
+![Admin Panel lands](/assets/imgs/harbour/seperate_admin_panel.jpg)
 
 ### Sub admins
 ![approve lands](/assets/imgs/harbour/sub%20admins.jpg)

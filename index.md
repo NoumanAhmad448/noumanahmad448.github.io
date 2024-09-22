@@ -8,7 +8,7 @@ is_homepage: true
 
 
 # Porfolio
-
+{% include company.md %}
 
 {% if site.open_projects %}
 ## Free Projects

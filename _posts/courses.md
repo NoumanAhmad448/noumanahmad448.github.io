@@ -14,7 +14,7 @@ permalink: /posts/courses
 {% include email.md %}
 
 ## Live Tour ?
-<a href="https://lyskills.com/" class="red font2" target="_blank">Let's take a Tour</a>
+<a href="" class="red font2" target="_blank">Let's take a Tour</a>
 
 ## Admin
 ### Admin Panel

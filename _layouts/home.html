@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="assets/imgs/logo.jpg">
+    <link rel="icon" href="{{site.main_url}}assets/imgs/logo.jpg">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -21,7 +21,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <a href="{{ "/" | absolute_url }}"> Home </a> --- 
-        <a href="{{ "/about" | absolute_url }}"> about </a>
+        <a href="/about"> About </a>
 
         {% if site.logo %}
           <img class="br-12" src="{{site.logo | relative_url}}" alt="Logo" />
@@ -38,6 +38,10 @@
             <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
             {% endif %}
             {% include email.md %}
+        {% else %}
+            <br><br>
+
+            {% include company.md %}
 
         {% endif %}
       </header>

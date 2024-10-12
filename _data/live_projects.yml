@@ -25,3 +25,10 @@
   technologies: Laravel PHP
   img: http://harbourislandcommonage.com/public/images/logo.png
   img_w: 30
+
+- url: https://northeleutheraregatta.com/
+  desc: Live Events System that shows facebook live stream
+  emoji: 🙌✨🙌
+  technologies: Wordpress PHP
+  img: https://northeleutheraregatta.com/wp-content/uploads/2024/10/Regatta_Association_Logo-removebg-1.png
+  img_w: 30

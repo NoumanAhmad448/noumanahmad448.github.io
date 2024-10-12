@@ -39,7 +39,7 @@ is_homepage: true
 {% for pro in site.data.live_projects %}
   <li>
     <a target="_blank" href="{{pro.url}}">
-        {{pro.desc}} 
+        {{pro.desc}}
         {{pro.emoji}}
         <strong>
             {{pro.technologies}}
